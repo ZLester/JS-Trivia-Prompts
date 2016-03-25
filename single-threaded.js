@@ -12,9 +12,11 @@ Project.prototype.describeStack = function() {
 
 var myTitle = 'Sewing with JavaScript';
 var myLink = 'http://www.knithub.com/sewingWithJS';
-var myStack = ['Backbone', 'Node', 'MongoDB'];
+var myStack = ['React', 'Node', 'MongoDB'];
 var sewingWithJS = new Project(myTitle, myLink, myStack);
 
 // What will the following log? Why?
-// How would you modify the `describeStack` method to achieve the desired functionality?
 sewingWithJS.describeStack();
+
+// How does `sweingWithJS` access the `describeStack` method?
+// How would you modify the `describeStack` method to achieve the expected functionality?
