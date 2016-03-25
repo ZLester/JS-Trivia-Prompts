@@ -1,1 +1,1 @@
-#### Trivia Prompts
+#### JavaScript Trivia Prompts
