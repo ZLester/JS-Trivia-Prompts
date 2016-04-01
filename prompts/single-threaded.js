@@ -18,5 +18,5 @@ var sewingWithJS = new Project(myTitle, myLink, myStack);
 // What will the following log? Why?
 sewingWithJS.describeStack();
 
-// How does `sweingWithJS` access the `describeStack` method?
+// How does `sewingWithJS` access the `describeStack` method?
 // How would you modify the `describeStack` method to achieve the expected functionality?

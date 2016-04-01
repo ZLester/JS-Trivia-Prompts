@@ -12,13 +12,13 @@ var foo = {
 
 var findMentor = foo.key.getMentor;
 
+// What will each of the following log (and why)?
 console.log(foo.key.getMentor());
 console.log(findMentor());
 
-// What will each of the above log?
-// Why?
-
-// Modify each of the following invocations of findMentor to achieve the desired result
+// Modify each of the following invocations of `findMentor` to achieve the desired result
 console.log(findMentor()); // 'Zach'
 console.log(findMentor()); // 'Beth'
 console.log(findMentor()); // 'Sunny'
+
+// Bonus: Will `findMentor` behave differently in the browser vs. in Node? Why/why not?
