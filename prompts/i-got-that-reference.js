@@ -4,7 +4,7 @@ var obj1 = {val: 'foo'};
 var obj2 = {val: 'bar'};
 var obj3 = {val: 'baz'};
 
-function alter(num, name, bool, obj1, obj2) {
+function alter(num, name, obj1, obj2) {
   num += 1337;
   name = 'Beth';
   obj1 = obj3;
