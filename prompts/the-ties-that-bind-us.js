@@ -1,3 +1,3 @@
 // Explain what .bind does under the hood and then recreate it below.
 
-Function.prototype.bind = function() {};
+Function.prototype.bindAlt = function() {};

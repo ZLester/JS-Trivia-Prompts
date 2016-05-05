@@ -10,4 +10,4 @@ for (var i = 0; i < 5; i++) {
 // Change the setTimeout delay to 0. 
 // Will this change the above behavior? Why/why not?
 
-// Modify the above to achieve the expected result.
+// Modify the above to achieve the desired result.

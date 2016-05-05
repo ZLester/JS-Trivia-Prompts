@@ -13,9 +13,6 @@ function alter(num, name, obj1, obj2) {
 
 alter(num, name, obj1, obj2);
 
-console.log(num);
-console.log(name);
-console.log(obj1);
-console.log(obj2.val);
+console.log(num, name, obj1, obj2.val);
 
-// What will each of the above log (and why)?
+// What will the above log (and why)?

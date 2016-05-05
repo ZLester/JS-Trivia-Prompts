@@ -12,9 +12,9 @@ var foo = {
 
 var findMentor = foo.key.getMentor;
 
-// What will each of the following log (and why)?
 console.log(foo.key.getMentor());
 console.log(findMentor());
+// What will each of the above log (and why)?
 
 // Modify each of the following invocations of `findMentor` to achieve the desired result
 console.log(findMentor()); // 'Zach'
