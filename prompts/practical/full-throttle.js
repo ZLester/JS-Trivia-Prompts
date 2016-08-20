@@ -4,4 +4,4 @@
 // and return a version of the function which will only be executed 
 // every duration ms
 
-var throttle = function() {};
+var throttle = function(func, duration) {};
