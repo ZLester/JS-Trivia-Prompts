@@ -11,6 +11,6 @@ function impossible () {
 impossible();
 
 // Without modifying the if statement, 
-// is it possible to make the above log 'bar'?
+// is it possible to make the above log 'foo'?
 
 // If so, how?
